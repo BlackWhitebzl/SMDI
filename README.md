@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/SMDI_logo.png" alt="logo" width="50%">
+  <img src="./assets/SSDI logo_new.png" alt="logo" width="50%">
 </p>
 
 # 钢混结构地震损伤图像数据集
